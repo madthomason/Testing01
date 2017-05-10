@@ -1,3 +1,5 @@
 New message for test01
 Edit #1
-Stretch Challenge on Computer.
+=======
+Stretch Edit
+>>>>>>> bfba2a853a4cee9b31ff38af56a1ac82634dc0c2
